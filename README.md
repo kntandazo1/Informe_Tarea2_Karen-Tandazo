@@ -85,6 +85,27 @@ rojo, oro.
 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mAa 150 mAcambiando la fuente
 de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
+![image](https://user-images.githubusercontent.com/117767335/202611706-e60dbe65-1d97-4131-9c02-24c9b28ab017.png)
+![image](https://user-images.githubusercontent.com/117767335/202611993-43d26d57-8468-44a4-a82d-02554b24c04e.png)
+
+14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+
+![image](https://user-images.githubusercontent.com/117767335/202612387-3a0fb60a-bbad-4fc5-a4ed-e0e18ef2938a.png)
+
+SECCIÓN 3–2 Cálculo de la corriente
+
+16. Determine la corriente en cada caso:
+
+![image](https://user-images.githubusercontent.com/117767335/202612781-a797d775-8ebf-4938-af56-1c51d08e74a2.png)
+
+![image](https://user-images.githubusercontent.com/117767335/202614046-6affa6b9-c057-46b4-b807-3558267a654a.png)
+
+![image](https://user-images.githubusercontent.com/117767335/202613975-07811377-9158-4a17-b44c-98ea7c6f33ea.png)
+
+![image](https://user-images.githubusercontent.com/117767335/202613236-60296bda-8b5e-4e8e-bea7-b28791c81724.png)
+
+
+
 
 
 
