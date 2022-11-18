@@ -1,16 +1,29 @@
 # Informe_Tarea2_Karen-Tandazo
 
-UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"
+------------------------------------------UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"--------------------------------------
 
-NOMBRE: Karen Tandazo
+---------------------------------------------  INFORME DE TAREA: CAPÍTULOS 3 Y 4-----------------------------------------
 
-NRC:10067
+-NOMBRE: Karen Tandazo
+
+-NRC:10067
+
 
 1. OBJETIVOS:
 
-OBJETIVO GENERAL:
+OBJETIVO GENERAL: 
+
+° Comprender correctamente las fórmulas, términos y prefijos usados en cada uno de los capítulos.
 
 OBJETIVOS ESPECÍFICOS:
+ 
+ -Aprender como es la relación entre la corriente, el voltaje y la resistencia, mediante la Ley de Ohm.
+ 
+ -Identificar los pasos a seguir para la localización de fallas en un circuito.
+ 
+ -Aplicar correctamente las fórmulas de la potencia para lograr una buena resolución al momento de realizar
+ los ejercicios.
+ 
 
 2. MARCO TEÓRICO:
  
@@ -276,9 +289,25 @@ entrada es de 5 W?
 4. VIDEO:
 
 
+
 5. CONCLUSIONES:
-
-
-
+   
+   - Al culminar con la lectura y resolución de los ejercicios del capítulo 3, se logró aprender la relación que 
+   existe entre la corriente, el voltaje y la resistencia. La relación entre la corriente y el voltaje es directamente
+   proporcional, lo que quiere decir que cuando uno aumente el otro lo hará de igual manera, mientras que la relación 
+   que existe entre la resistencia y la corriente es inversamente proporcional por lo que cuando una disminuya la otra 
+   aumentará y asi viceversa.
+   
+   - Se logró identicar los pasos a seguir para poder localizar las fallas dentro de un circuito, para ello se debe realizar
+   un análisis, luego se elabora una planificación, para ello se debe contar con el conocimiento necesario sobre el 
+   funcionamiento de un circuito, y por último se realiza una medición, en la cuál se aplica el método de división a la mitad.
+   
+   - Al haber aplicado de manera correcta las fórmulas de la potencia se pudo dar solución a cada uno de los problemas planteados 
+   dentro del capítulo 4.
+   
+   
 6. BIBLIOGRAFÍA:
+
+Thomas L. Floyd (2007). Principios de circuitos electricos. octava edicion
+
 
