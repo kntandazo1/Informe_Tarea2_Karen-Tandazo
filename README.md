@@ -100,11 +100,66 @@ SECCIÓN 3–2 Cálculo de la corriente
 
 ![image](https://user-images.githubusercontent.com/117767335/202614046-6affa6b9-c057-46b4-b807-3558267a654a.png)
 
-![image](https://user-images.githubusercontent.com/117767335/202613975-07811377-9158-4a17-b44c-98ea7c6f33ea.png)
-
 ![image](https://user-images.githubusercontent.com/117767335/202613236-60296bda-8b5e-4e8e-bea7-b28791c81724.png)
 
+![image](https://user-images.githubusercontent.com/117767335/202613975-07811377-9158-4a17-b44c-98ea7c6f33ea.png)
 
+18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes
+máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+
+![image](https://user-images.githubusercontent.com/117767335/202614484-521628c4-0dea-45ff-ad3c-7bd3be96bcb4.png)
+
+20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código
+de colores es naranja, violeta, amarillo, oro, café.
+
+![image](https://user-images.githubusercontent.com/117767335/202615248-86a09167-df2c-47b3-9ee0-acee5ff05d79.png)
+
+22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada
+a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 V o menos, el elemento calentador puede quemarse. 
+¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador 
+en el punto de corriente máxima es de 100 V, y el voltajea través del reóstato es la diferencia entre el voltaje del 
+elemento calentador y el voltaje de la fuente?
+
+![image](https://user-images.githubusercontent.com/117767335/202615351-c75afeb6-33ed-4242-83ec-b17d25666cab.png)
+
+![image](https://user-images.githubusercontent.com/117767335/202615686-2823763a-80c0-4830-8aa4-40c8ccbfdd35.png)
+
+SECCIÓN 3–3 Cálculo de voltaje
+
+24. Calcule el voltaje para cada valor de I y R:
+
+![image](https://user-images.githubusercontent.com/117767335/202617496-5c501175-0d18-4583-8d01-81c008ae226b.png)
+
+26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para
+obtener las cantidades de corriente indicadas.
+
+![image](https://user-images.githubusercontent.com/117767335/202617595-3aaadbe9-18ec-4015-a519-1b7e00d57cdb.png)
+
+![image](https://user-images.githubusercontent.com/117767335/202618111-8d58c904-8003-45b9-b624-65ed7af8aa67.png)
+
+SECCIÓN 3–4 Cálculo de la resistencia
+
+28. Encuentre la resistencia de un reóstato para cada valor de V e I:
+
+![image](https://user-images.githubusercontent.com/117767335/202618899-5587fe88-3300-47d8-a408-0720fb501a95.png)
+
+30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+
+![image](https://user-images.githubusercontent.com/117767335/202619099-f49f5704-3af1-46c0-94c5-62f13df31d9a.png)
+
+32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un
+amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito
+necesarias.
+
+![image](https://user-images.githubusercontent.com/117767335/202619398-dbd56205-6d26-40a8-912f-d27369d452bd.png)
+
+34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente
+excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato
+sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 V.
+
+![image](https://user-images.githubusercontent.com/117767335/202619606-11692d09-eb89-4047-83ef-a84b4c25c418.png)
+
+SECCIÓN 3–5 Introducción a la localización de fallas
 
 
 
