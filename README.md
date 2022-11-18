@@ -35,7 +35,7 @@ OBJETIVOS ESPECÍFICOS:
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
-CAPÍTULO 3
+----------------------CAPÍTULO 3--------------------------------------------------------------------------------
 
 SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 
@@ -47,7 +47,7 @@ SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 
 ![image](https://user-images.githubusercontent.com/117767335/202605872-55035863-f6e9-478e-b569-2d1435bc8639.png)
 
-6. En cierto circuito, I 5 5 mA cuando V 5 1 V. Determine la corriente para cada uno de los voltajes siguientes
+6. En cierto circuito, I=5mA cuando V=1V. Determine la corriente para cada uno de los voltajes siguientes
 en el mismo circuito.
 
 ![image](https://user-images.githubusercontent.com/117767335/202609358-729e8275-6095-45ff-8acf-82c089679da3.png)
@@ -82,7 +82,7 @@ rojo, oro.
 ![image](https://user-images.githubusercontent.com/117767335/202611093-be8cd0e3-cd31-4923-b162-6e1775cbc8fb.png)
 
 
-12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mAa 150 mAcambiando la fuente
+12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente
 de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
 ![image](https://user-images.githubusercontent.com/117767335/202611706-e60dbe65-1d97-4131-9c02-24c9b28ab017.png)
@@ -91,6 +91,7 @@ de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deb
 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
 
 ![image](https://user-images.githubusercontent.com/117767335/202612387-3a0fb60a-bbad-4fc5-a4ed-e0e18ef2938a.png)
+
 
 SECCIÓN 3–2 Cálculo de la corriente
 
@@ -124,6 +125,7 @@ elemento calentador y el voltaje de la fuente?
 
 ![image](https://user-images.githubusercontent.com/117767335/202615686-2823763a-80c0-4830-8aa4-40c8ccbfdd35.png)
 
+
 SECCIÓN 3–3 Cálculo de voltaje
 
 24. Calcule el voltaje para cada valor de I y R:
@@ -136,6 +138,7 @@ obtener las cantidades de corriente indicadas.
 ![image](https://user-images.githubusercontent.com/117767335/202617595-3aaadbe9-18ec-4015-a519-1b7e00d57cdb.png)
 
 ![image](https://user-images.githubusercontent.com/117767335/202618111-8d58c904-8003-45b9-b624-65ed7af8aa67.png)
+
 
 SECCIÓN 3–4 Cálculo de la resistencia
 
@@ -159,12 +162,116 @@ sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 V.
 
 ![image](https://user-images.githubusercontent.com/117767335/202619606-11692d09-eb89-4047-83ef-a84b4c25c418.png)
 
+
 SECCIÓN 3–5 Introducción a la localización de fallas
 
+36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de
+ohmmetro mostradas.
+
+![image](https://user-images.githubusercontent.com/117767335/202619874-a850dc09-66fd-4305-a5ef-62879b6e7814.png)
 
 
+--------------------------------CAPÍTULO 4-----------------------------------------------------------------------
+
+SECCIÓN 4–1 Energía y potencia
+
+2. Demuestre que hay 3.6 X10^6 joules en un kilowatt-hora.
+
+![image](https://user-images.githubusercontent.com/117767335/202623487-a48e903a-5c42-4d91-8ddd-5f73bcea91ca.png)
+
+4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+![image](https://user-images.githubusercontent.com/117767335/202624130-8d20a94e-56db-437c-bfe1-71ade56780c2.png)
+
+6. Convierta las siguientes cantidades en kilowatts:
+
+![image](https://user-images.githubusercontent.com/117767335/202624358-60281f1f-4f9a-46f7-8ee8-1d2893887ead.png)
+
+8. Convierta las siguientes cantidades en miliwatts:
+
+![image](https://user-images.githubusercontent.com/117767335/202624555-201599ed-40b3-4cef-aa9e-36c2dd2319e6.png)
+
+10. Convierta las siguientes cantidades en watts:
+
+![image](https://user-images.githubusercontent.com/117767335/202626361-3b2aec46-027e-4259-ad97-52870c7cf77a.png)
+
+12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos
+kilowatts-hora de energía consume?
+
+![image](https://user-images.githubusercontent.com/117767335/202627035-fde8bd83-cbe7-4b35-9cdd-3e74d6f104e6.png)
+
+14. Convierta 5x10^6 watts-minutos en kWh.
+
+![image](https://user-images.githubusercontent.com/117767335/202627466-c08591b5-df4f-4ebc-8122-9904919ae51c.png)
+
+16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 ohms para consumir
+25 J?
+
+![image](https://user-images.githubusercontent.com/117767335/202627747-08b88500-6993-4d24-8c85-14dd5f570719.png)
 
 
+SECCIÓN 4–2 Potencia en un circuito eléctrico
+
+18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+![image](https://user-images.githubusercontent.com/117767335/202628535-a61bf6a6-c055-41b8-a390-d7fc6b0652c0.png)
+
+20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
+
+![image](https://user-images.githubusercontent.com/117767335/202628815-b2221e74-2a71-4d8c-90b4-c682f61d8bea.png)
+
+22. Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
+
+![image](https://user-images.githubusercontent.com/117767335/202628944-3aff752c-4bdd-45ac-a5c6-66f59bfbe208.png)
+
+24. Si un resistor tiene que transportar 2A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe
+ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+![image](https://user-images.githubusercontent.com/117767335/202629247-48873752-7725-410d-9b41-0288973c930c.png)
+
+
+SECCIÓN 4–3 Clasificaciones de potencia en resistores
+
+26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor
+de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga
+que dispone de resistores en todas las clasificaciones de potencia estándar.
+
+![image](https://user-images.githubusercontent.com/117767335/202629557-7c38e8ee-1981-4f67-bd4a-40c04f183564.png)
+
+
+SECCIÓN 4–4 Conversión de energía y caída de voltaje en una resistencia
+
+28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos
+del resistor.
+
+![image](https://user-images.githubusercontent.com/117767335/202632154-7b9bb70e-8cd1-41a5-82b1-e0d8705dceb8.png)
+
+
+SECCIÓN 4–5 Fuentes de potencia
+
+30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas
+en una carga de 10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga
+durante la vida de la batería?
+
+![image](https://user-images.githubusercontent.com/117767335/202629696-9ccd4078-170b-4656-a6c5-fbc6f4e01689.png)
+
+![image](https://user-images.githubusercontent.com/117767335/202629990-c318e3c3-ce88-4321-88a0-80acaa362827.png)
+
+32. Una batería puede proporcionar un promedio de 1.5 Ade corriente durante 24 h. ¿Cuál es su capacidad
+en amperes-hora?
+
+![image](https://user-images.githubusercontent.com/117767335/202630225-6eaa5bd9-5acc-4c4c-82a2-de06bea65895.png)
+
+34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+
+![image](https://user-images.githubusercontent.com/117767335/202630727-be6d7787-9dbb-4245-8dff-bfc58c501b42.png)
+
+36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de
+entrada es de 5 W?
+
+![image](https://user-images.githubusercontent.com/117767335/202631257-9a181a46-30cf-41f8-afa8-f54afc6266a4.png)
+
+![image](https://user-images.githubusercontent.com/117767335/202631401-9138d229-535e-4504-939b-63cea6c4519b.png)
 
 4. VIDEO:
 
