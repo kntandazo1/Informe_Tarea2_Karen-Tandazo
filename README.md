@@ -1,8 +1,8 @@
 # Informe_Tarea2_Karen-Tandazo
 
-------------------------------------------UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"--------------------------------------
+--------------------------UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"--------------------------------------
 
----------------------------------------------  INFORME DE TAREA: CAPÍTULOS 3 Y 4-----------------------------------------
+---------------------------- INFORME DE TAREA: CAPÍTULOS 3 Y 4-----------------------------------------
 
 -NOMBRE: Karen Tandazo
 
@@ -48,7 +48,7 @@ OBJETIVOS ESPECÍFICOS:
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
-----------------------CAPÍTULO 3--------------------------------------------------------------------------------
+----------------------CAPÍTULO 3------------------------------------------------
 
 SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 
@@ -184,7 +184,7 @@ ohmmetro mostradas.
 ![image](https://user-images.githubusercontent.com/117767335/202619874-a850dc09-66fd-4305-a5ef-62879b6e7814.png)
 
 
---------------------------------CAPÍTULO 4-----------------------------------------------------------------------
+-------------------------CAPÍTULO 4------------------------------------------------------
 
 SECCIÓN 4–1 Energía y potencia
 
